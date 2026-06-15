@@ -282,6 +282,189 @@ body.site-aviator-hub {
   margin-bottom: 0;
 }
 
+.site-aviator-hub .hero--home {
+  position: relative;
+  padding: 1rem 0 1.75rem;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 90% 70% at 15% -10%, rgba(229, 5, 57, 0.12), transparent 55%),
+    radial-gradient(ellipse 80% 60% at 85% 0%, rgba(76, 209, 55, 0.14), transparent 50%),
+    linear-gradient(180deg, #12182a 0%, #0b0e1a 100%);
+}
+
+.site-aviator-hub .hero--home .hero__ambient {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 70% 40%, rgba(76, 209, 55, 0.06), transparent 45%),
+    repeating-linear-gradient(
+      -18deg,
+      rgba(255, 255, 255, 0.015) 0 1px,
+      transparent 1px 14px
+    );
+  pointer-events: none;
+}
+
+.site-aviator-hub .hero--home .hero__shell {
+  position: relative;
+  z-index: 1;
+}
+
+.site-aviator-hub .hero--home .hero__grid {
+  display: grid;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.site-aviator-hub .hero--home .hero__copy {
+  padding: 1.35rem 1.15rem 1.25rem;
+  border-radius: 18px;
+  border: 1px solid rgba(76, 209, 55, 0.22);
+  background: rgba(11, 14, 26, 0.72);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.04) inset,
+    0 18px 40px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(10px);
+}
+
+.site-aviator-hub .hero--home .hero__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 0 0.75rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--aviator-green-bright);
+  background: rgba(76, 209, 55, 0.1);
+  border: 1px solid rgba(76, 209, 55, 0.25);
+}
+
+.site-aviator-hub .hero--home .hero__title {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  margin: 0 0 0.65rem;
+  line-height: 1.05;
+  -webkit-text-fill-color: unset;
+  background: none;
+}
+
+.site-aviator-hub .hero--home .hero__title-main {
+  font-size: clamp(1.85rem, 7vw, 2.65rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+
+.site-aviator-hub .hero--home .hero__title-accent {
+  font-size: clamp(1.05rem, 4.2vw, 1.45rem);
+  font-weight: 700;
+  color: var(--aviator-green-bright);
+}
+
+.site-aviator-hub .hero--home .hero__subtitle {
+  margin: 0 0 0.85rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.72);
+  max-width: 34rem;
+}
+
+.site-aviator-hub .hero__pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.site-aviator-hub .hero__pill {
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--aviator-ink);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.site-aviator-hub .hero--home .hero__pill::before {
+  content: "●";
+  color: var(--aviator-green-bright);
+  margin-right: 0.35rem;
+  font-size: 0.55rem;
+  vertical-align: middle;
+}
+
+.site-aviator-hub .hero--home .hero__cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0;
+}
+
+.site-aviator-hub .hero--home .hero__cta .btn--lg {
+  min-width: 9.5rem;
+  flex: 1 1 auto;
+}
+
+.site-aviator-hub .hero--home .hero__note {
+  margin: 0.85rem 0 0;
+  font-size: 0.72rem;
+  color: var(--aviator-muted);
+  opacity: 0.85;
+}
+
+.site-aviator-hub .hero--home .hero__art {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+  min-height: 140px;
+}
+
+.site-aviator-hub .hero--home .hero__art-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 140px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.site-aviator-hub .hero--home .hero__art::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 50%, rgba(11, 14, 26, 0.55) 100%);
+  pointer-events: none;
+}
+
+@media (min-width: 768px) {
+  .site-aviator-hub .hero--home {
+    padding: 1.75rem 0 2.25rem;
+  }
+
+  .site-aviator-hub .hero--home .hero__grid {
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+    gap: 1.75rem;
+  }
+
+  .site-aviator-hub .hero--home .hero__copy {
+    padding: 1.65rem 1.5rem 1.45rem;
+  }
+
+  .site-aviator-hub .hero--home .hero__cta .btn--lg {
+    flex: 0 1 auto;
+  }
+}
+
 .site-aviator-hub .hero__banner-wrap::after {
   content: "";
   position: absolute;
@@ -296,16 +479,28 @@ body.site-aviator-hub {
   overflow: hidden;
 }
 
+.site-aviator-hub .hero--page .hero__content {
+  position: relative;
+  margin-top: 0;
+  padding: 1.25rem 0 1.75rem;
+  z-index: 1;
+  text-align: left;
+}
+
 .site-aviator-hub .hero__content {
   position: relative;
-  margin-top: -3rem;
-  padding-bottom: 2rem;
+  margin-top: 0;
+  padding: 1.25rem 0 1.75rem;
   z-index: 1;
 }
 
 .site-aviator-hub .hero__title {
   font-size: clamp(1.75rem, 4vw, 2.5rem);
   line-height: 1.15;
+}
+
+.site-aviator-hub .hero__title--page,
+.site-aviator-hub .hero--page .hero__title {
   background: linear-gradient(90deg, #fff 0%, #c8d4ff 100%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -315,6 +510,8 @@ body.site-aviator-hub {
 .site-aviator-hub .hero__subtitle {
   color: var(--aviator-muted);
   max-width: 42rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
 }
 
 /* ——— Sections ——— */
@@ -1457,19 +1654,21 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
 }
 
 .site-aviator-hub .hero--kz .hero__banner-wrap--kz::after {
-  background: linear-gradient(180deg, transparent 40%, rgba(11, 14, 26, 0.88) 100%);
+  background: linear-gradient(180deg, transparent 35%, rgba(11, 14, 26, 0.92) 100%);
 }
 
+.site-aviator-hub .hero--page .hero__banner-wrap,
 .site-aviator-hub .hero--kz .hero__banner-wrap {
-  max-height: 220px;
-  background: #fff;
+  max-height: 180px;
+  background: #0b0e1a;
 }
 
-.site-aviator-hub .hero--kz .hero__title {
-  background: linear-gradient(90deg, #fff 0%, #c8e8f5 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+.site-aviator-hub .hero--page .hero__banner-img,
+.site-aviator-hub .hero--kz .hero__banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .site-aviator-hub .hero__cta {
@@ -1477,6 +1676,10 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
   flex-wrap: wrap;
   gap: 0.65rem;
   margin-top: 1rem;
+}
+
+.site-aviator-hub .section--rating {
+  padding-top: 1.25rem;
 }
 
 /* ——— Rating horizontal scroll ——— */
@@ -1495,10 +1698,7 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
 }
 
 .site-aviator-hub .rating-table-wrap--scroll {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: thin;
-  scrollbar-color: var(--aviator-green) var(--aviator-bg-card);
+  overflow-x: visible;
 }
 
 .site-aviator-hub .rating-table--logos {
@@ -1531,13 +1731,12 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
   margin-top: 0.35rem;
 }
 
-.site-aviator-hub .rating-table-wrap--scroll {
-  overflow-x: visible;
-}
-
 @media (min-width: 640px) {
   .site-aviator-hub .rating-table-wrap--scroll {
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--aviator-green) var(--aviator-bg-card);
   }
 
   .site-aviator-hub .rating-table--logos {
@@ -1564,10 +1763,6 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
     display: table-cell;
     margin-top: 0;
   }
-}
-
-.site-aviator-hub .section--rating {
-  padding-top: 1.5rem;
 }
 
 /* ——— Brand grid (kazino page) ——— */

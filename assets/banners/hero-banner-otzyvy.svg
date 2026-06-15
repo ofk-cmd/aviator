@@ -9,15 +9,25 @@
       <stop offset="0%" stop-color="#ffd54f"/>
       <stop offset="100%" stop-color="#f5b800" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glow" cx="30%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="#4cd137" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#4cd137" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="1520" height="304" fill="url(#sky)"/>
+  <rect width="1520" height="304" fill="url(#glow)"/>
   <circle cx="1280" cy="80" r="70" fill="url(#sun)" opacity="0.85"/>
   <path d="M0 220 Q380 180 760 210 T1520 200 L1520 304 L0 304 Z" fill="#00afca" opacity="0.35"/>
   <path d="M0 250 Q400 230 800 245 T1520 235 L1520 304 L0 304 Z" fill="#0099b5" opacity="0.5"/>
-  <g transform="translate(200 120) rotate(-15)" opacity="0.9">
+  <g transform="translate(180 95) rotate(-12)" opacity="0.95">
     <path d="M0 20 L120 0 L100 12 L140 12 L90 28 L110 48 L60 32 L40 52 Z" fill="#e50539"/>
-    <ellipse cx="50" cy="30" rx="18" ry="8" fill="#28a909" opacity="0.8"/>
+    <ellipse cx="50" cy="30" rx="18" ry="8" fill="#28a909" opacity="0.85"/>
   </g>
-  <text x="760" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="42" fill="#0b1a2a">Отзывы об Aviator</text>
-  <text x="760" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#1a3a52">Что говорят игроки из Алматы и Астаны о crash-игре и площадках из рей…</text>
+  <g transform="translate(980 140) rotate(8)" opacity="0.55">
+    <path d="M0 16 L90 0 L75 10 L105 10 L68 22 L82 36 L45 24 L30 40 Z" fill="#e50539"/>
+    <ellipse cx="38" cy="24" rx="14" ry="6" fill="#28a909" opacity="0.7"/>
+  </g>
+  <circle cx="240" cy="60" r="2" fill="#4cd137" opacity="0.5"/>
+  <circle cx="320" cy="90" r="1.5" fill="#4cd137" opacity="0.35"/>
+  <circle cx="1100" cy="70" r="2" fill="#4cd137" opacity="0.4"/>
 </svg>
