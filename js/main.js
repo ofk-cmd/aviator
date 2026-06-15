@@ -1,20 +1,6 @@
 (function () {
   "use strict";
 
-  var toggle = document.querySelector(".nav-toggle");
-  var mobileNav = document.querySelector(".nav-mobile");
-  if (toggle && mobileNav) {
-    toggle.addEventListener("click", function () {
-      var open = toggle.getAttribute("aria-expanded") === "true";
-      toggle.setAttribute("aria-expanded", String(!open));
-      mobileNav.classList.toggle("is-open", !open);
-    });
-    mobileNav.querySelectorAll('a[href^="#"]').forEach(function (link) {
-      link.addEventListener("click", function () {
-        toggle.setAttribute("aria-expanded", "false");
-        mobileNav.classList.remove("is-open");
-      });
-    });
   }
 
   var faqItems = document.querySelectorAll(".faq-item");
