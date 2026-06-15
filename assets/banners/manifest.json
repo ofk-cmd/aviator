@@ -1,0 +1,892 @@
+[
+  {
+    "file": "assets/banners/home-s01.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s02.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s03.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s04.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s05.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s06.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s07.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s08.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s09.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s10.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s11.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s12.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s13.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s14.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s15.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s16.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s17.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s18.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s19.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s20.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s21.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s22.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s23.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s24.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/home-s25.webp",
+    "type": "section",
+    "page": "home"
+  },
+  {
+    "file": "assets/banners/kazino-s01.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s02.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s03.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s04.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s05.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s06.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s07.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s08.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s09.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s10.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s11.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s12.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/kazino-s13.webp",
+    "type": "section",
+    "page": "kazino"
+  },
+  {
+    "file": "assets/banners/slotlar-s01.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s02.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s03.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s04.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s05.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s06.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/slotlar-s07.webp",
+    "type": "section",
+    "page": "slotlar"
+  },
+  {
+    "file": "assets/banners/live-kazino-s01.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/live-kazino-s02.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/live-kazino-s03.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/live-kazino-s04.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/live-kazino-s05.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/live-kazino-s06.webp",
+    "type": "section",
+    "page": "live-kazino"
+  },
+  {
+    "file": "assets/banners/crash-s01.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s02.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s03.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s04.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s05.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s06.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/crash-s07.webp",
+    "type": "section",
+    "page": "crash"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s01.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s02.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s03.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s04.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s05.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s06.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/kazino-bonuslari-s07.webp",
+    "type": "section",
+    "page": "kazino-bonuslari"
+  },
+  {
+    "file": "assets/banners/promo-kod-s01.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/promo-kod-s02.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/promo-kod-s03.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/promo-kod-s04.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/promo-kod-s05.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/promo-kod-s06.webp",
+    "type": "section",
+    "page": "promo-kod"
+  },
+  {
+    "file": "assets/banners/mobil-s01.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s02.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s03.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s04.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s05.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s06.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s07.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s08.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s09.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s10.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s11.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s12.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s13.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s14.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s15.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s16.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s17.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s18.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/mobil-s19.webp",
+    "type": "section",
+    "page": "mobil"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s01.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s02.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s03.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s04.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s05.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s06.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s07.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s08.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s09.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s10.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s11.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s12.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s13.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s14.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s15.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/royxatdan-otish-s16.webp",
+    "type": "section",
+    "page": "royxatdan-otish"
+  },
+  {
+    "file": "assets/banners/kirish-s01.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s02.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s03.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s04.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s05.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s06.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s07.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s08.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s09.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s10.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s11.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s12.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s13.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s14.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s15.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s16.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/kirish-s17.webp",
+    "type": "section",
+    "page": "kirish"
+  },
+  {
+    "file": "assets/banners/tolov-s01.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s02.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s03.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s04.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s05.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s06.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s07.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s08.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s09.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s10.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s11.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s12.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s13.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s14.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s15.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/tolov-s16.webp",
+    "type": "section",
+    "page": "tolov"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s01.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s02.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s03.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s04.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s05.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s06.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/pul-yechish-s07.webp",
+    "type": "section",
+    "page": "pul-yechish"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s01.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s02.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s03.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s04.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s05.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/verifikatsiya-s06.webp",
+    "type": "section",
+    "page": "verifikatsiya"
+  },
+  {
+    "file": "assets/banners/sharhlar-s01.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s02.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s03.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s04.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s05.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s06.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s07.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s08.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s09.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s10.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s11.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s12.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s13.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/sharhlar-s14.webp",
+    "type": "section",
+    "page": "sharhlar"
+  },
+  {
+    "file": "assets/banners/zerkalo-s01.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/zerkalo-s02.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/zerkalo-s03.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/zerkalo-s04.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/zerkalo-s05.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/zerkalo-s06.webp",
+    "type": "section",
+    "page": "zerkalo"
+  },
+  {
+    "file": "assets/banners/litsenziya-s01.webp",
+    "type": "section",
+    "page": "litsenziya"
+  },
+  {
+    "file": "assets/banners/litsenziya-s02.webp",
+    "type": "section",
+    "page": "litsenziya"
+  },
+  {
+    "file": "assets/banners/litsenziya-s03.webp",
+    "type": "section",
+    "page": "litsenziya"
+  },
+  {
+    "file": "assets/banners/litsenziya-s04.webp",
+    "type": "section",
+    "page": "litsenziya"
+  },
+  {
+    "file": "assets/banners/litsenziya-s05.webp",
+    "type": "section",
+    "page": "litsenziya"
+  },
+  {
+    "file": "assets/banners/litsenziya-s06.webp",
+    "type": "section",
+    "page": "litsenziya"
+  }
+]
