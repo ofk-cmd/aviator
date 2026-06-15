@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" role="img" aria-label="Kazino-S сайтында Aviator — KZT-ге crash ойнау">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141b2e"/>
+      <stop offset="55%" stop-color="#0d1220"/>
+      <stop offset="100%" stop-color="#060910"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e50539"/>
+      <stop offset="100%" stop-color="#28a909"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#e50539" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e50539" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="760" height="200" rx="16" fill="url(#bg)"/>
+  <rect width="760" height="200" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="758" height="198" rx="15" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity="0.7"/>
+  <rect x="0" y="0" width="8" height="200" rx="4" fill="url(#neon)"/>
+  <circle cx="640" cy="52" r="34" fill="none" stroke="#e50539" stroke-width="2" opacity="0.5"/>
+  <circle cx="640" cy="52" r="22" fill="#e50539" opacity="0.15"/>
+  <text x="640" y="58" text-anchor="middle" fill="#e50539" font-family="system-ui,sans-serif" font-size="14" font-weight="800">₸</text>
+  <circle cx="690" cy="110" r="16" fill="#e50539" opacity="0.85"/>
+  <circle cx="710" cy="130" r="12" fill="#28a909" opacity="0.75"/>
+  <circle cx="670" cy="135" r="10" fill="#f5b800" opacity="0.8"/>
+  <g transform="translate(560 118) rotate(-8)" opacity="0.9">
+    <path d="M0 14 L80 0 L66 9 L92 9 L60 20 L72 32 L40 22 L28 36 Z" fill="#e50539"/>
+    <ellipse cx="34" cy="22" rx="12" ry="5" fill="#28a909" opacity="0.8"/>
+  </g>
+  <text x="28" y="36" fill="#e50539" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.08em">ОЙНАУ</text>
+  <text x="28" y="72" fill="#f4f6fb" font-family="system-ui,sans-serif" font-size="22" font-weight="800">Kazino-S Aviator — KZT-ге ойнау</text>
+  <text x="28" y="102" fill="#aeb6c8" font-family="system-ui,sans-serif" font-size="14">Spribe crash, cash out, Provably Fair</text>
+  <rect x="28" y="128" width="120" height="36" rx="8" fill="url(#neon)" opacity="0.95"/>
+  <text x="88" y="151" text-anchor="middle" fill="#041208" font-family="system-ui,sans-serif" font-size="13" font-weight="800">ОЙНАУ</text>
+  <circle cx="120" cy="170" r="1.5" fill="#28a909" opacity="0.6"/>
+  <circle cx="140" cy="165" r="1" fill="#e50539" opacity="0.5"/>
+  <circle cx="160" cy="172" r="1.2" fill="#f5b800" opacity="0.45"/>
+</svg>

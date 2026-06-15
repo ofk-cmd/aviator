@@ -774,6 +774,65 @@ body.site-aviator-hub {
   height: auto;
 }
 
+/* ——— Content banners (seo-guide) ——— */
+.site-aviator-hub .content-banners {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.25rem;
+  margin: 0 0 1.5rem;
+}
+
+.site-aviator-hub .content-banner {
+  margin: 0;
+}
+
+.site-aviator-hub .content-banner__link {
+  display: block;
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.site-aviator-hub .content-banner__link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+.site-aviator-hub .content-banner__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 96px;
+  aspect-ratio: 760 / 200;
+  object-fit: cover;
+  border-radius: 14px;
+}
+
+.site-aviator-hub .content-banner__cap {
+  margin-top: 0.4rem;
+  font-size: 0.78rem;
+  color: var(--aviator-muted);
+  line-height: 1.35;
+}
+
+.site-aviator-hub .content-banner--gold .content-banner__link {
+  box-shadow: 0 0 0 1px rgba(245, 184, 0, 0.25);
+}
+
+.site-aviator-hub .content-banner--red .content-banner__link {
+  box-shadow: 0 0 0 1px rgba(229, 5, 57, 0.25);
+}
+
+@media (max-width: 640px) {
+  .site-aviator-hub .content-banners {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 520px) {
   .site-aviator-hub .seo-guide-banners {
     grid-template-columns: 1fr;
@@ -1161,12 +1220,29 @@ body.site-aviator-hub {
 }
 
 @media (max-width: 768px) {
-  .site-aviator-hub .rating-table .rating-row__bonus {
-    display: none;
-  }
-
   .site-aviator-hub .site-footer__grid {
     grid-template-columns: 1fr;
+  }
+
+  .site-aviator-hub .rating-table-wrap--scroll {
+    margin-left: -0.25rem;
+    margin-right: -0.25rem;
+  }
+
+  .site-aviator-hub .rating-table--logos {
+    min-width: 520px;
+  }
+
+  .site-aviator-hub .rating-table .rating-row__bonus {
+    min-width: 7.5rem;
+  }
+
+  .site-aviator-hub .rating-table .bonus-amount {
+    font-size: 0.82rem;
+  }
+
+  .site-aviator-hub .rating-table .bonus-hint {
+    font-size: 0.72rem;
   }
 }
 
@@ -1754,71 +1830,31 @@ body.site-aviator-hub.has-sticky-bonus .back-to-top.is-visible {
 }
 
 .site-aviator-hub .rating-table-wrap--scroll {
-  overflow-x: visible;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--aviator-green) var(--aviator-bg-card);
 }
 
 .site-aviator-hub .rating-table--logos {
-  min-width: 0;
+  min-width: 580px;
   width: 100%;
 }
 
 .site-aviator-hub .rating-table--logos thead {
-  display: none;
+  display: table-header-group;
 }
 
 .site-aviator-hub .rating-table--logos tbody tr {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.35rem;
-  padding: 0.85rem 0;
-  border-bottom: 1px solid var(--aviator-border);
+  display: table-row;
 }
 
 .site-aviator-hub .rating-table--logos tbody td {
-  display: block;
-  padding: 0;
-  border: 0;
+  display: table-cell;
 }
 
 .site-aviator-hub .rating-table--logos .rating-row__cta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.35rem;
-}
-
-@media (min-width: 640px) {
-  .site-aviator-hub .rating-table-wrap--scroll {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
-    scrollbar-color: var(--aviator-green) var(--aviator-bg-card);
-  }
-
-  .site-aviator-hub .rating-table--logos {
-    min-width: 560px;
-  }
-
-  .site-aviator-hub .rating-table--logos thead {
-    display: table-header-group;
-  }
-
-  .site-aviator-hub .rating-table--logos tbody tr {
-    display: table-row;
-    padding: 0;
-    border-bottom: 0;
-  }
-
-  .site-aviator-hub .rating-table--logos tbody td {
-    display: table-cell;
-    padding: 0.65rem 0.75rem;
-    border-bottom: 1px solid var(--aviator-border);
-  }
-
-  .site-aviator-hub .rating-table--logos .rating-row__cta {
-    display: table-cell;
-    margin-top: 0;
-  }
+  white-space: nowrap;
 }
 
 /* ——— Brand grid (kazino page) ——— */
