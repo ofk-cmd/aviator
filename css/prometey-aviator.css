@@ -780,6 +780,56 @@ body.site-aviator-hub {
   }
 }
 
+.site-aviator-hub .operator-banners {
+  padding: 1.25rem 0 0.5rem;
+}
+
+.site-aviator-hub .operator-banners__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.25rem;
+}
+
+.site-aviator-hub .operator-banner {
+  margin: 0;
+}
+
+.site-aviator-hub .operator-banner__link {
+  display: block;
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.site-aviator-hub .operator-banner__link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.site-aviator-hub .operator-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.site-aviator-hub .operator-banner figcaption {
+  margin-top: 0.35rem;
+  font-size: 0.78rem;
+  color: var(--aviator-muted);
+  line-height: 1.35;
+}
+
+@media (max-width: 720px) {
+  .site-aviator-hub .operator-banners__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 .site-aviator-hub .data-table {
   background: var(--aviator-bg-card);
