@@ -33,4 +33,44 @@
       closeMobileNav();
     });
   }
+
+  var sticky = document.getElementById("aviator-sticky");
+  if (sticky) {
+    var storageKey = "aviator_sticky_dismissed";
+    var dismissed = false;
+
+    try {
+      dismissed = sessionStorage.getItem(storageKey) === "1";
+    } catch (e) {}
+
+    function setStickyVisible(show) {
+      sticky.hidden = !show;
+      sticky.classList.toggle("is-visible", show);
+      document.body.classList.toggle("has-aviator-sticky", show);
+    }
+
+    if (dismissed) {
+      setStickyVisible(false);
+    } else {
+      function syncSticky() {
+        setStickyVisible(window.scrollY > 360);
+      }
+
+      syncSticky();
+      window.addEventListener("scroll", syncSticky, { passive: true });
+
+      var dismissBtn = sticky.querySelector(".aviator-sticky__dismiss");
+      if (dismissBtn) {
+        dismissBtn.addEventListener("click", function (event) {
+          event.preventDefault();
+          event.stopPropagation();
+          dismissed = true;
+          setStickyVisible(false);
+          try {
+            sessionStorage.setItem(storageKey, "1");
+          } catch (err) {}
+        });
+      }
+    }
+  }
 })();

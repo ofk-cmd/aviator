@@ -1,8 +1,6 @@
 (function () {
   "use strict";
 
-  }
-
   var faqItems = document.querySelectorAll(".faq-item");
   faqItems.forEach(function (item, index) {
     var btn = item.querySelector(".faq-item__question");
@@ -37,44 +35,6 @@
     backTop.addEventListener("click", function () {
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
-  }
-
-  var stickyCta = document.getElementById("sticky-cta");
-  if (stickyCta) {
-    var stickyKey = "casino_sticky_dismissed";
-    var stickyDismissed = sessionStorage.getItem(stickyKey) === "1";
-
-    function updateStickyVisibility() {
-      if (stickyDismissed) {
-        stickyCta.classList.add("is-hidden");
-        document.body.classList.remove("has-sticky-cta");
-        return;
-      }
-      var show = window.scrollY > 520;
-      stickyCta.classList.toggle("is-hidden", !show);
-      document.body.classList.toggle("has-sticky-cta", show);
-    }
-
-    updateStickyVisibility();
-    window.addEventListener("scroll", updateStickyVisibility, { passive: true });
-
-    var closeBtn = stickyCta.querySelector(".sticky-cta__close");
-    function dismissSticky(event) {
-      if (event) {
-        event.preventDefault();
-        event.stopPropagation();
-      }
-      stickyDismissed = true;
-      stickyCta.classList.add("is-hidden");
-      document.body.classList.remove("has-sticky-cta");
-      try {
-        sessionStorage.setItem(stickyKey, "1");
-      } catch (e) {}
-    }
-    if (closeBtn) {
-      closeBtn.addEventListener("click", dismissSticky);
-      closeBtn.addEventListener("touchend", dismissSticky, { passive: false });
-    }
   }
 
   document.querySelectorAll("[data-carousel]").forEach(function (root) {
@@ -114,41 +74,4 @@
     show(0);
     restart();
   });
-
-  var promoCodeEl = document.getElementById("site-promo-code");
-  var promoBadge = document.querySelector("[data-promo-badge]");
-  if (promoCodeEl && promoBadge) {
-    promoBadge.textContent = promoCodeEl.textContent.trim();
-  }
-
-  var copyPromoBtns = document.querySelectorAll(".js-copy-promo");
-  copyPromoBtns.forEach(function (btn) {
-    var defaultLabel = btn.textContent;
-    btn.addEventListener("click", function (event) {
-      event.preventDefault();
-      event.stopPropagation();
-      var targetId = btn.getAttribute("data-copy-target");
-      var codeEl = targetId ? document.getElementById(targetId) : null;
-      var code = codeEl ? codeEl.textContent.trim() : "";
-      if (!code) return;
-
-      function onCopied() {
-        btn.classList.add("is-copied");
-        btn.textContent = "Nusxalandi!";
-        window.setTimeout(function () {
-          btn.classList.remove("is-copied");
-          btn.textContent = defaultLabel;
-        }, 1800);
-      }
-
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(code).then(onCopied).catch(function () {
-          window.prompt("Promo kodni nusxalang:", code);
-        });
-      } else {
-        window.prompt("Promo kodni nusxalang:", code);
-      }
-    });
-  });
-
 })();

@@ -1170,7 +1170,151 @@ body.site-aviator-hub {
   justify-content: center;
 }
 
-/* ——— Sticky CTA ——— */
+/* ——— Sticky promo bar ——— */
+.site-aviator-hub .aviator-sticky {
+  position: fixed;
+  inset: auto 0 0 0;
+  z-index: 120;
+  pointer-events: none;
+}
+
+.site-aviator-hub .aviator-sticky.is-visible {
+  pointer-events: auto;
+}
+
+.site-aviator-hub .aviator-sticky__bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 0.65rem;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0.7rem 1rem calc(0.7rem + env(safe-area-inset-bottom, 0px));
+  background: linear-gradient(180deg, rgba(14, 18, 32, 0.98), rgba(8, 10, 18, 0.99));
+  border-top: 2px solid transparent;
+  border-image: linear-gradient(90deg, var(--aviator-red), var(--aviator-green)) 1;
+  box-shadow: 0 -12px 40px rgba(0, 0, 0, 0.45);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  transform: translateY(110%);
+  transition: transform 0.28s ease;
+}
+
+.site-aviator-hub .aviator-sticky.is-visible .aviator-sticky__bar {
+  transform: translateY(0);
+}
+
+.site-aviator-hub .aviator-sticky__info {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  min-width: 0;
+}
+
+.site-aviator-hub .aviator-sticky__icon {
+  flex-shrink: 0;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(229, 5, 57, 0.2), rgba(40, 169, 9, 0.15));
+  border: 1px solid rgba(76, 209, 55, 0.25);
+  font-size: 1rem;
+}
+
+.site-aviator-hub .aviator-sticky__copy {
+  min-width: 0;
+}
+
+.site-aviator-hub .aviator-sticky__eyebrow {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--aviator-green-bright);
+  line-height: 1.2;
+}
+
+.site-aviator-hub .aviator-sticky__title {
+  display: block;
+  font-size: clamp(0.82rem, 2.8vw, 0.98rem);
+  font-weight: 800;
+  color: var(--aviator-ink);
+  line-height: 1.25;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.site-aviator-hub .aviator-sticky__hint {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--aviator-muted);
+  line-height: 1.25;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.site-aviator-hub .aviator-sticky__play {
+  flex-shrink: 0;
+  min-width: 5.25rem;
+  min-height: 2.65rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.site-aviator-hub .aviator-sticky__dismiss {
+  flex-shrink: 0;
+  width: 2.65rem;
+  height: 2.65rem;
+  border: 1px solid var(--aviator-border);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--aviator-muted);
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.site-aviator-hub .aviator-sticky__dismiss:hover {
+  color: var(--aviator-ink);
+  border-color: var(--aviator-border-accent);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+body.site-aviator-hub.has-aviator-sticky {
+  padding-bottom: calc(4.5rem + env(safe-area-inset-bottom, 0px));
+}
+
+body.site-aviator-hub.has-aviator-sticky .back-to-top.is-visible {
+  bottom: calc(5rem + env(safe-area-inset-bottom, 0px));
+}
+
+@media (max-width: 420px) {
+  .site-aviator-hub .aviator-sticky__hint {
+    display: none;
+  }
+
+  .site-aviator-hub .aviator-sticky__bar {
+    gap: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  .site-aviator-hub .aviator-sticky__play {
+    min-width: 4.75rem;
+    padding-inline: 0.75rem;
+  }
+}
+
+/* ——— Sticky CTA (legacy, unused) ——— */
 .site-aviator-hub .sticky-cta {
   position: fixed;
   bottom: 0;
