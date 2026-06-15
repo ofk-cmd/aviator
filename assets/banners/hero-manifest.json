@@ -1,0 +1,98 @@
+[
+  {
+    "file": "assets/banners/hero-banner-home.webp",
+    "page": "home",
+    "theme": "casino-bonus",
+    "bytes": 81222
+  },
+  {
+    "file": "assets/banners/hero-banner-kazino.webp",
+    "page": "kazino",
+    "theme": "vip-cashback",
+    "bytes": 87280
+  },
+  {
+    "file": "assets/banners/hero-banner-slotlar.webp",
+    "page": "slotlar",
+    "theme": "vip-cashback",
+    "bytes": 87280
+  },
+  {
+    "file": "assets/banners/hero-banner-live-kazino.webp",
+    "page": "live-kazino",
+    "theme": "casino-bonus",
+    "bytes": 81222
+  },
+  {
+    "file": "assets/banners/hero-banner-crash.webp",
+    "page": "crash",
+    "theme": "express-win",
+    "bytes": 44102
+  },
+  {
+    "file": "assets/banners/hero-banner-kazino-bonuslari.webp",
+    "page": "kazino-bonuslari",
+    "theme": "vip-cashback",
+    "bytes": 87064
+  },
+  {
+    "file": "assets/banners/hero-banner-promo-kod.webp",
+    "page": "promo-kod",
+    "theme": "casino-bonus",
+    "bytes": 81222
+  },
+  {
+    "file": "assets/banners/hero-banner-mobil.webp",
+    "page": "mobil",
+    "theme": "mobile-app",
+    "bytes": 50370
+  },
+  {
+    "file": "assets/banners/hero-banner-royxatdan-otish.webp",
+    "page": "royxatdan-otish",
+    "theme": "casino-bonus",
+    "bytes": 82704
+  },
+  {
+    "file": "assets/banners/hero-banner-kirish.webp",
+    "page": "kirish",
+    "theme": "security",
+    "bytes": 78534
+  },
+  {
+    "file": "assets/banners/hero-banner-tolov.webp",
+    "page": "tolov",
+    "theme": "security",
+    "bytes": 79516
+  },
+  {
+    "file": "assets/banners/hero-banner-pul-yechish.webp",
+    "page": "pul-yechish",
+    "theme": "security",
+    "bytes": 78534
+  },
+  {
+    "file": "assets/banners/hero-banner-verifikatsiya.webp",
+    "page": "verifikatsiya",
+    "theme": "security",
+    "bytes": 78534
+  },
+  {
+    "file": "assets/banners/hero-banner-sharhlar.webp",
+    "page": "sharhlar",
+    "theme": "express-win",
+    "bytes": 44102
+  },
+  {
+    "file": "assets/banners/hero-banner-zerkalo.webp",
+    "page": "zerkalo",
+    "theme": "security",
+    "bytes": 78534
+  },
+  {
+    "file": "assets/banners/hero-banner-litsenziya.webp",
+    "page": "litsenziya",
+    "theme": "security",
+    "bytes": 78534
+  }
+]

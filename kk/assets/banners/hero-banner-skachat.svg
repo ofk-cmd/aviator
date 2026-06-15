@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="304" viewBox="0 0 1520 304" role="img" aria-label="Авиатор · Қазақстан">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f0f9ff"/>
+      <stop offset="100%" stop-color="#00afca"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd54f"/>
+      <stop offset="100%" stop-color="#f5b800" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1520" height="304" fill="url(#sky)"/>
+  <circle cx="1280" cy="80" r="70" fill="url(#sun)" opacity="0.85"/>
+  <path d="M0 220 Q380 180 760 210 T1520 200 L1520 304 L0 304 Z" fill="#00afca" opacity="0.35"/>
+  <path d="M0 250 Q400 230 800 245 T1520 235 L1520 304 L0 304 Z" fill="#0099b5" opacity="0.5"/>
+  <g transform="translate(200 120) rotate(-15)" opacity="0.9">
+    <path d="M0 20 L120 0 L100 12 L140 12 L90 28 L110 48 L60 32 L40 52 Z" fill="#e50539"/>
+    <ellipse cx="50" cy="30" rx="18" ry="8" fill="#28a909" opacity="0.8"/>
+  </g>
+  <text x="760" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="42" fill="#0b1a2a">Авиатор · Қазақстан</text>
+  <text x="760" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#1a3a52">APK және iOS жүктеу</text>
+</svg>
