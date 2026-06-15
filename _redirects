@@ -1,0 +1,6 @@
+/kz/kk /kk/ 301
+/kz/kk/ /kk/ 301
+/kz /kk/ 301
+/kz/ /kk/ 301
+/kz/* /kk/:splat 301
+https://www.prometey-b.kz/* https://prometey-b.kz/:splat 301
