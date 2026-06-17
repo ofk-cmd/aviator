@@ -1,19 +1,17 @@
 (function () {
   "use strict";
 
-  var REF_URL = "https://bobaffs.org/click?o=1603&a=189";
-
   var PARTNERS = {
-    "pin-up": REF_URL,
-    "1win": REF_URL,
-    "olymp": REF_URL,
-    "mostbet": REF_URL,
-    "1xbet": REF_URL,
-    "parimatch": REF_URL,
-    "melbet": REF_URL,
-    "betwinner": REF_URL,
-    "leon": REF_URL,
-    "vavada": REF_URL
+    "pin-up": "#",
+    "1win": "#",
+    "olymp": "#",
+    "mostbet": "#",
+    "1xbet": "#",
+    "parimatch": "#",
+    "melbet": "#",
+    "betwinner": "#",
+    "leon": "#",
+    "vavada": "#"
   };
 
   var lastOpenAt = 0;
@@ -28,8 +26,7 @@
     var now = Date.now();
     if (now - lastOpenAt < 400) return;
     lastOpenAt = now;
-    var opened = window.open(url, "_blank", "noopener,noreferrer");
-    if (!opened) window.location.href = url;
+    window.open(url, "_blank", "noopener,noreferrer");
   }
 
   function onPartnerClick(event) {
@@ -37,11 +34,8 @@
     if (!btn) return;
     event.preventDefault();
     event.stopPropagation();
-    if (typeof event.stopImmediatePropagation === "function") {
-      event.stopImmediatePropagation();
-    }
     var id = btn.getAttribute("data-partner-id") || "1win";
-    var url = PARTNERS[id] || REF_URL;
+    var url = PARTNERS[id] || PARTNERS["1win"];
     openPartnerLink(url);
   }
 

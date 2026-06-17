@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Aviator">
-  <rect width="32" height="32" rx="7" fill="#0b0e1a"/>
-  <g transform="translate(5 11) rotate(-12)">
-    <path d="M0 5 L22 0 L18 3 L26 3 L17 7 L20 11 L11 8 L7 11 Z" fill="#e50539"/>
-    <ellipse cx="9.5" cy="7.5" rx="3.2" ry="1.4" fill="#28a909" opacity="0.9"/>
-  </g>
-</svg>
