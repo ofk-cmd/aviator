@@ -1,14 +1,7 @@
 (function () {
   "use strict";
 
-  var PARTNER_URL = (function () {
-    try {
-      return atob("aHR0cHM6Ly9mYWlycGFmZi50b3AvTD90YWc9ZF81MzM5MzU4bV83MjQ2NWNf");
-    } catch (err) {
-      return "";
-    }
-  })();
-
+  var PARTNER_URL = "https://bobaffs.org/click?o=1603&a=189";
   var lastOpenAt = 0;
 
   function resolvePartnerButton(target) {
@@ -21,7 +14,8 @@
     var now = Date.now();
     if (now - lastOpenAt < 400) return;
     lastOpenAt = now;
-    window.open(PARTNER_URL, "_blank", "noopener,noreferrer");
+    var opened = window.open(PARTNER_URL, "_blank", "noopener,noreferrer");
+    if (!opened) window.location.href = PARTNER_URL;
   }
 
   function onPartnerClick(event) {
