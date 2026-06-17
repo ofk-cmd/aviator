@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-label="Pin-Up">
+  <defs>
+    <linearGradient id="pu-red" x1="0" y1="0" x2="160" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff2d4d"/>
+      <stop offset="100%" stop-color="#c9002b"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="48" rx="8" fill="url(#pu-red)"/>
+  <rect x="1" y="1" width="158" height="46" rx="7" fill="none" stroke="rgba(255,255,255,0.12)"/>
+  <text x="80" y="31" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="18" font-style="italic" fill="#FFFFFF" letter-spacing="0.04em">PIN-UP</text>
+</svg>
