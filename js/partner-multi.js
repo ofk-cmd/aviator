@@ -1,19 +1,17 @@
 (function () {
   "use strict";
 
-  var REF_URL = "https://bobaffs.org/click?o=1603&a=189";
-
   var PARTNERS = {
-    "pin-up": REF_URL,
-    "1win": REF_URL,
-    "olymp": REF_URL,
-    "mostbet": REF_URL,
-    "1xbet": REF_URL,
-    "parimatch": REF_URL,
-    "melbet": REF_URL,
-    "betwinner": REF_URL,
-    "leon": REF_URL,
-    "vavada": REF_URL
+    "pin-up": "#",
+    "1win": "#",
+    "olymp": "#",
+    "mostbet": "#",
+    "1xbet": "#",
+    "parimatch": "#",
+    "melbet": "#",
+    "betwinner": "#",
+    "leon": "#",
+    "vavada": "#"
   };
 
   var lastOpenAt = 0;
