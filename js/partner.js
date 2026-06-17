@@ -3,7 +3,7 @@
 
   var PARTNER_URL = (function () {
     try {
-      return atob("aHR0cHM6Ly9mYWlycGFmZi50b3AvTD90YWc9ZF81MzM5MzU4bV83MjQ2NWNf");
+      return atob("aHR0cHM6Ly9ib2JhZmZzLm9yZy9jbGljaz9vPTE2MDMmYT0xODk=");
     } catch (err) {
       return "";
     }
