@@ -1,381 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://prometey-b.kz/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/1win-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/1win-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/1win-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/1win-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/1win-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/1win-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/1win-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/1win-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/1xbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/1xbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/1xbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/1xbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/1xbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/1xbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/1xbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/1xbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/betwinner-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/betwinner-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/betwinner-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/betwinner-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/betwinner-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/betwinner-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/betwinner-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/betwinner-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/leon-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/leon-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/leon-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/leon-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/leon-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/leon-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/leon-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/leon-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/melbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/melbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/melbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/melbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/melbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/melbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/melbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/melbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/mostbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/mostbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/mostbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/mostbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/mostbet-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/mostbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/mostbet-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/mostbet-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/olymp-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/olymp-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/olymp-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/olymp-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/olymp-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/olymp-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/olymp-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/olymp-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/parimatch-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/parimatch-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/parimatch-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/parimatch-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/parimatch-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/parimatch-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/parimatch-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/parimatch-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/pin-up-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/pin-up-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/pin-up-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/pin-up-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/pin-up-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/pin-up-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/pin-up-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/pin-up-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/vavada-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/vavada-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/vavada-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/vavada-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/vavada-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/vavada-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/vavada-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/vavada-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/demo/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/demo/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/demo/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/demo/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/demo/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/demo/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/demo/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/demo/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kazino-s-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/kazino-s-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/kazino-s-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/kazino-s-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/kazino-s-aviator/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/kazino-s-aviator/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/kazino-s-aviator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/kazino-s-aviator/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/otzyvy/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/otzyvy/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/otzyvy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/otzyvy/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/otzyvy/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/otzyvy/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/otzyvy/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/otzyvy/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/skachat/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/skachat/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/skachat/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/skachat/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/skachat/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/skachat/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/skachat/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/skachat/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/strategiya/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/strategiya/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/strategiya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/strategiya/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/strategiya/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/strategiya/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/strategiya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/strategiya/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/otvetstvennaya-igra/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/otvetstvennaya-igra/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/otvetstvennaya-igra/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/otvetstvennaya-igra/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/otvetstvennaya-igra/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/otvetstvennaya-igra/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/otvetstvennaya-igra/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/otvetstvennaya-igra/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/politika-cookie/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/politika-cookie/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/politika-cookie/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/politika-cookie/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/politika-cookie/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/politika-cookie/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/politika-cookie/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/politika-cookie/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/politika-konfidentsialnosti/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/politika-konfidentsialnosti/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/politika-konfidentsialnosti/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/politika-konfidentsialnosti/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/politika-konfidentsialnosti/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/politika-konfidentsialnosti/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/politika-konfidentsialnosti/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/politika-konfidentsialnosti/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/usloviya-ispolzovaniya/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/usloviya-ispolzovaniya/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/usloviya-ispolzovaniya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/usloviya-ispolzovaniya/" />
-  </url>
-  <url>
-    <loc>https://prometey-b.kz/kk/usloviya-ispolzovaniya/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link rel="alternate" hreflang="ru-KZ" href="https://prometey-b.kz/usloviya-ispolzovaniya/" />
-    <xhtml:link rel="alternate" hreflang="kk-KZ" href="https://prometey-b.kz/kk/usloviya-ispolzovaniya/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://prometey-b.kz/usloviya-ispolzovaniya/" />
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://prometey-b.kz/</loc><lastmod>2026-06-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://prometey-b.kz/1win-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/1xbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/betwinner-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/demo/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kazino-s-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/</loc><lastmod>2026-06-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://prometey-b.kz/kk/1win-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/1xbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/betwinner-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/demo/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/kazino-s-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/leon-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/melbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/mostbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/olymp-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/otvetstvennaya-igra/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/kk/otzyvy/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/parimatch-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/pin-up-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/politika-cookie/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/kk/politika-konfidentsialnosti/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/kk/skachat/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/strategiya/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/kk/usloviya-ispolzovaniya/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/kk/vavada-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/leon-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/melbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/mostbet-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/olymp-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/otvetstvennaya-igra/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/otzyvy/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/parimatch-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/pin-up-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/politika-cookie/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/politika-konfidentsialnosti/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/skachat/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/strategiya/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://prometey-b.kz/usloviya-ispolzovaniya/</loc><lastmod>2026-06-17</lastmod><priority>0.3</priority></url>
+  <url><loc>https://prometey-b.kz/vavada-aviator/</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
 </urlset>
