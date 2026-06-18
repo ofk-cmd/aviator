@@ -208,6 +208,15 @@ body.site-aviator-hub {
   box-shadow: var(--aviator-glow-red);
 }
 
+.site-aviator-hub .nav__logo-img {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 10px;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: var(--aviator-glow-red);
+}
+
 .site-aviator-hub .nav__brand-text small {
   display: block;
   font-size: 0.65rem;
