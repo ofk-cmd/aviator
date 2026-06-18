@@ -1,17 +1,20 @@
 (function () {
   "use strict";
 
+  /** Bobaffs referral — единая партнёрская ссылка для всех CTA */
+  var BOBAFFS = "https://bobaffs.org/click?o=1603&a=189";
+
   var PARTNERS = {
-    "pin-up": "#",
-    "1win": "#",
-    "olymp": "#",
-    "mostbet": "#",
-    "1xbet": "#",
-    "parimatch": "#",
-    "melbet": "#",
-    "betwinner": "#",
-    "leon": "#",
-    "vavada": "#"
+    "pin-up": BOBAFFS,
+    "1win": BOBAFFS,
+    "olymp": BOBAFFS,
+    "mostbet": BOBAFFS,
+    "1xbet": BOBAFFS,
+    "parimatch": BOBAFFS,
+    "melbet": BOBAFFS,
+    "betwinner": BOBAFFS,
+    "leon": BOBAFFS,
+    "vavada": BOBAFFS
   };
 
   var lastOpenAt = 0;
@@ -35,7 +38,7 @@
     event.preventDefault();
     event.stopPropagation();
     var id = btn.getAttribute("data-partner-id") || "1win";
-    var url = PARTNERS[id] || PARTNERS["1win"];
+    var url = PARTNERS[id] || BOBAFFS;
     openPartnerLink(url);
   }
 
