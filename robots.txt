@@ -1,34 +1,142 @@
-User-agent: Googlebot
-Allow: /
+# Открыто для всех ботов. Закрыто только SEO-пузомеркам (audit/backlink/rank tools).
 
-User-agent: Googlebot-Image
-Allow: /
+# Ahrefs
+User-agent: AhrefsBot
+Disallow: /
 
-User-agent: Googlebot-News
-Allow: /
+User-agent: AhrefsSiteAudit
+Disallow: /
 
-User-agent: Googlebot-Video
-Allow: /
+# Semrush
+User-agent: SemrushBot
+Disallow: /
 
-User-agent: Yandex
-Allow: /
+User-agent: SemrushBot-SA
+Disallow: /
 
-User-agent: YandexBot
-Allow: /
+User-agent: SemrushBot-CT
+Disallow: /
 
-User-agent: YandexImages
-Allow: /
+User-agent: SemrushBot-BA
+Disallow: /
 
-User-agent: YandexMobileBot
-Allow: /
+User-agent: SemrushBot-SWA
+Disallow: /
 
-User-agent: bingbot
-Allow: /
+User-agent: Barkrowler
+Disallow: /
 
-User-agent: Bingbot
-Allow: /
+# Serpstat
+User-agent: SerpstatBot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+# SE Ranking
+User-agent: SEBot-WA
+Disallow: /
+
+User-agent: SERankingBacklinksBot
+Disallow: /
+
+User-agent: SERankingBot
+Disallow: /
+
+User-agent: SEranking
+Disallow: /
+
+# Majestic
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Majestic-Bot
+Disallow: /
+
+# Moz
+User-agent: DotBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: Mozbot
+Disallow: /
+
+# SEO PowerSuite (Link Assistant, Rank Tracker, Website Auditor)
+User-agent: BLEXBot
+Disallow: /
+
+# DataForSEO
+User-agent: DataForSeoBot
+Disallow: /
+
+# MegaIndex
+User-agent: MegaIndex
+Disallow: /
+
+# Linkdex
+User-agent: linkdexbot
+Disallow: /
+
+# SEOkicks
+User-agent: SEOkicks-Robot
+Disallow: /
+
+# Sistrix
+User-agent: SistrixBot
+Disallow: /
+
+User-agent: SistrixCrawler
+Disallow: /
+
+# AccuRanker
+User-agent: AccuRanker
+Disallow: /
+
+User-agent: AccurankerBot
+Disallow: /
+
+# Oncrawl
+User-agent: Oncrawl
+Disallow: /
+
+# Sitebulb
+User-agent: Sitebulb
+Disallow: /
+
+# JetOctopus
+User-agent: JetOctopus
+Disallow: /
+
+# ContentKing (Conductor)
+User-agent: ContentKing
+Disallow: /
+
+# Ryte
+User-agent: RyteBot
+Disallow: /
+
+# Netpeak Spider
+User-agent: NetpeakSpider
+Disallow: /
+
+# cognitiveSEO
+User-agent: cognitiveSEO
+Disallow: /
+
+# Domain Stats
+User-agent: DomainStatsBot
+Disallow: /
+
+# Velen (SEO crawler)
+User-agent: VelenPublicWebCrawler
+Disallow: /
 
 User-agent: *
-Disallow: /
+Allow: /
 
 Sitemap: https://prometey-b.kz/sitemap.xml
