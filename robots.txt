@@ -1,5 +1,24 @@
 # Открыто для всех ботов. Закрыто только SEO-пузомеркам (audit/backlink/rank tools).
 
+# Google — явное разрешение краулинга
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: Storebot-Google
+Allow: /
+
 # Ahrefs
 User-agent: AhrefsBot
 Disallow: /
